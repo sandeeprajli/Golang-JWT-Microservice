@@ -1,0 +1,11 @@
+{"level":"info","ts":"2022-08-03T11:11:31.481+0530","caller":"zap/main.go:12","msg":"Hello World"}
+{"level":"debug","ts":"2022-08-03T11:11:31.481+0530","caller":"zap/main.go:15","msg":"checking for value 0","value":" even"}
+{"level":"debug","ts":"2022-08-03T11:11:31.481+0530","caller":"zap/main.go:17","msg":"checking for value 1","value":"odd"}
+{"level":"debug","ts":"2022-08-03T11:11:31.481+0530","caller":"zap/main.go:15","msg":"checking for value 2","value":" even"}
+{"level":"debug","ts":"2022-08-03T11:11:31.482+0530","caller":"zap/main.go:17","msg":"checking for value 3","value":"odd"}
+{"level":"debug","ts":"2022-08-03T11:11:31.482+0530","caller":"zap/main.go:15","msg":"checking for value 4","value":" even"}
+{"level":"debug","ts":"2022-08-03T11:11:31.482+0530","caller":"zap/main.go:17","msg":"checking for value 5","value":"odd"}
+{"level":"debug","ts":"2022-08-03T11:11:31.482+0530","caller":"zap/main.go:15","msg":"checking for value 6","value":" even"}
+{"level":"debug","ts":"2022-08-03T11:11:31.482+0530","caller":"zap/main.go:17","msg":"checking for value 7","value":"odd"}
+{"level":"debug","ts":"2022-08-03T11:11:31.482+0530","caller":"zap/main.go:15","msg":"checking for value 8","value":" even"}
+{"level":"debug","ts":"2022-08-03T11:11:31.482+0530","caller":"zap/main.go:17","msg":"checking for value 9","value":"odd"}
